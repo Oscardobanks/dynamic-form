@@ -3,7 +3,7 @@ import { AppProvider } from "./context/AppContext";
 import Home from "./pages/Home";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import DynamicForm from "./components/DynamicForm";
+import DynamicForm from "./pages/DynamicForm";
 
 const App = () => {
   return (
